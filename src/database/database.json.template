@@ -1,0 +1,20 @@
+{
+    "tasks": [],
+    "telegramConfig": {
+        "botToken": "",
+        "botUsername": "",
+        "channelChatId": 1,
+        "channelJoinURL": "",
+
+        "vehicleStartedChannelChatId": 1,
+        "vehicleStartedbotToken": "",
+        "vehicleStartedbotUsername": ""
+    },
+    "vehicle": {
+        "make": "",
+        "model": "",
+        "mileage": 1,
+        "plateNumber": "",
+        "year": 2023
+    }
+}
