@@ -1,0 +1,1 @@
+export const logDirectory = `${process.cwd()}/logs` 
